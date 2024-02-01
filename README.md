@@ -11,4 +11,3 @@ Certifique-se de ter o Flutter e o Dart instalados em sua máquina. Para obter i
 1. Clone os seguintes repositórios:
 
     1. lab-web-core
-    2. lab-clinicas
