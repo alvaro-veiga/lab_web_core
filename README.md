@@ -1,6 +1,6 @@
 # Nome do Projeto
 
-lab-web-core aplicação web desenvolvida em flutter.
+lab-web-core. Aplicação web desenvolvida em flutter.
 
 ## Pré-requisitos
 
